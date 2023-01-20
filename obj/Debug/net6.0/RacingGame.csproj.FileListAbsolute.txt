@@ -1,0 +1,15 @@
+C:\Users\beatriz\source\repos\RockPaperScissors\RockPaperScissors\obj\Debug\net6.0\RacingGame.csproj.AssemblyReference.cache
+C:\Users\beatriz\source\repos\RockPaperScissors\RockPaperScissors\obj\Debug\net6.0\RacingGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\beatriz\source\repos\RockPaperScissors\RockPaperScissors\obj\Debug\net6.0\RacingGame.AssemblyInfoInputs.cache
+C:\Users\beatriz\source\repos\RockPaperScissors\RockPaperScissors\obj\Debug\net6.0\RacingGame.AssemblyInfo.cs
+C:\Users\beatriz\source\repos\RockPaperScissors\RockPaperScissors\obj\Debug\net6.0\RacingGame.csproj.CoreCompileInputs.cache
+C:\Users\beatriz\source\repos\RockPaperScissors\RockPaperScissors\bin\Debug\net6.0\RacingGame.exe
+C:\Users\beatriz\source\repos\RockPaperScissors\RockPaperScissors\bin\Debug\net6.0\RacingGame.deps.json
+C:\Users\beatriz\source\repos\RockPaperScissors\RockPaperScissors\bin\Debug\net6.0\RacingGame.runtimeconfig.json
+C:\Users\beatriz\source\repos\RockPaperScissors\RockPaperScissors\bin\Debug\net6.0\RacingGame.dll
+C:\Users\beatriz\source\repos\RockPaperScissors\RockPaperScissors\bin\Debug\net6.0\RacingGame.pdb
+C:\Users\beatriz\source\repos\RockPaperScissors\RockPaperScissors\obj\Debug\net6.0\RacingGame.dll
+C:\Users\beatriz\source\repos\RockPaperScissors\RockPaperScissors\obj\Debug\net6.0\refint\RacingGame.dll
+C:\Users\beatriz\source\repos\RockPaperScissors\RockPaperScissors\obj\Debug\net6.0\RacingGame.pdb
+C:\Users\beatriz\source\repos\RockPaperScissors\RockPaperScissors\obj\Debug\net6.0\RacingGame.genruntimeconfig.cache
+C:\Users\beatriz\source\repos\RockPaperScissors\RockPaperScissors\obj\Debug\net6.0\ref\RacingGame.dll
