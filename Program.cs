@@ -11,34 +11,27 @@ namespace RacingGame
     {
          static void Main(string[] args)
         {
-            int tlPista = 100;
-            int posicaoC1 = 0;
-            String pista = "";
-            String corredorPista = "";
-
 
             Corredor c1 = new Corredor();
-            c1.Nome = "D";
-            posicaoC1 = c1.Correr();
+            c1.Nome = "Beatriz";
 
+            Corredor c2 = new Corredor();
+            c2.Nome = "CPU";
 
-            //Monta a imagem do corredor na pista
-            for (int i = 0; i < tlPista; i++)
+            Boolean ganhou = false;
+            Pista pista1 = new Pista(100, c1);
+            Pista pista2 = new Pista(100, c2);
+            Boolean flag = false;
+
+            while (ganhou == false)
             {
-                pista += "_";
-                if(i == posicaoC1)
-                {
-                    corredorPista += c1.Nome;
-                }else
-                {
-                    corredorPista += " ";
-                }
+                Console.Clear();
+                if (pista1.AtualizarCorrida() == true) ganhou = true;
+                if (pista2.AtualizarCorrida() == true) ganhou = true;
+                pista1.ExibirPista();
+                pista2.ExibirPista();
+                Console.ReadKey();
             }
-
-            //exibir a pista e o corredor
-            Console.WriteLine(corredorPista);
-            Console.WriteLine(pista);
-
-        }
+         }
     }
 }

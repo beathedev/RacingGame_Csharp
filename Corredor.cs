@@ -34,7 +34,7 @@ namespace RacingGame
         public int Correr()
         {
             Random rnd = new Random();
-            return rnd.Next(1, 5);
+            return rnd.Next(1, 10);
         }
 
     }
